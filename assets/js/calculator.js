@@ -39,7 +39,9 @@ function calculate(){
     result = '0.' + '0'.repeat(zeros) + result;
   }
   result = (sign || '') + result + (base || '');
-  const formattedResult = math.format(math.number(result));
+  const formattedResult = math.format(math.number(
+    result.replace(/(x|\*)10\^(.+)/,'e$2').replace()
+  ));
 
   // 3. output
   _('result').innerHTML = result + (formattedResult != result ? ' or ' + formattedResult : '');
