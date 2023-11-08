@@ -12,9 +12,8 @@ The significant figure rounder rounds numbers to the required quantity of signif
 3. Activate the [Significant Figures Calculator](https://www.calculator.io/significant-figures-calculator/ "Significant Figures Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_significant_figures_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Significant Figures Calculator to the sidebar through the `Appearance -> Widgets -> Significant Figures Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_significant_figures_calculator(); ?>` to your template where you would like the Significant Figures Calculator to appear.
+* Add the shortcode `[ci_significant_figures_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_significant_figures_calculator(); ?>` to your template where you would like the Significant Figures Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
