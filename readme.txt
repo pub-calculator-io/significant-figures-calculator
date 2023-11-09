@@ -13,6 +13,8 @@ The significant figure rounder rounds numbers to the required quantity of signif
 
 The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
 
+[Significant Figures Calculator Homepage](https://www.calculator.io/significant-figures-calculator/ "Significant Figures Calculator Homepage")
+
 __Shortcode__
 
 Use the Significant Figures Calculator shortcode:
