@@ -13,34 +13,35 @@ The significant figure rounder rounds numbers to the required quantity of signif
 
 The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
 
-[Significant Figures Calculator Homepage](https://www.calculator.io/significant-figures-calculator/ "Significant Figures Calculator Homepage")
+[https://www.calculator.io/significant-figures-calculator/](https://www.calculator.io/significant-figures-calculator/)
 
-__Shortcode__
-
-Use the Significant Figures Calculator shortcode:
+__Significant Figures Calculator Shortcode__
 
 `[ci_significant_figures_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_significant_figures_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Significant Figures Calculator](https://www.calculator.io/significant-figures-calculator/ "Significant Figures Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Significant Figures Calculator Usage ==
+
 * Add the shortcode `[ci_significant_figures_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_significant_figures_calculator(); ?>` to your template where you would like the Significant Figures Calculator to appear.
 
 == Screenshots ==
+
 1. The Significant Figures Calculator Input Form.
 2. The Significant Figures Calculator Calculation Results.
+
+== Libraries used in Significant Figures Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
