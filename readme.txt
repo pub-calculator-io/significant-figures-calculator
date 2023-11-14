@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
 
-== Description ==
-
-The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
-
 [https://www.calculator.io/significant-figures-calculator/](https://www.calculator.io/significant-figures-calculator/)
 
-__Significant Figures Calculator Shortcode__
+== Usage ==
+
+Add the Significant Figures Calculator shortcode to your page, post or sidebar:
 
 `[ci_significant_figures_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Significant Figures Calculator to appear:
 
-1. Upload the /ci_significant_figures_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Significant Figures Calculator](https://www.calculator.io/significant-figures-calculator/ "Significant Figures Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Significant Figures Calculator Usage ==
-
-* Add the shortcode `[ci_significant_figures_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_significant_figures_calculator(); ?>` to your template where you would like the Significant Figures Calculator to appear.
+`<?php display_ci_significant_figures_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Significant Figures Calculator Input Form.
 2. The Significant Figures Calculator Calculation Results.
 
-== Libraries used in Significant Figures Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Significant Figures Calculator /ci_significant_figures_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Significant Figures Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Significant Figures Calculator
