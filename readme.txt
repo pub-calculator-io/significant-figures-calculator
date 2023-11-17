@@ -1,6 +1,6 @@
 === Significant Figures Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: significant figures calculator, number rounding, sig fig determination, standard number formatting, scientific notation rounding, e-notation calculation, significant figure rounding algorithm, zero replacement in rounding, calculating sig figs
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
