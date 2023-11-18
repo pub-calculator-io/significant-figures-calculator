@@ -1,4 +1,4 @@
-# Significant Figures Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Significant Figures Calculator Widget for WordPress
 
 The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
 
