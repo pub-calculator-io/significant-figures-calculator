@@ -1,4 +1,4 @@
-=== Significant Figures Calculator ===
+=== Significant Figures Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: significant figures calculator, number rounding, sig fig determination, standard number formatting, scientific notation rounding, e-notation calculation, significant figure rounding algorithm, zero replacement in rounding, calculating sig figs
 Requires at least: 5.0
