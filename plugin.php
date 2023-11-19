@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Significant Figures Calculator by www.calculator.io
+Plugin Name: CI Significant figures calculator
 Plugin URI: https://www.calculator.io/significant-figures-calculator/
 Description: The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
 Version: 1.0.0
