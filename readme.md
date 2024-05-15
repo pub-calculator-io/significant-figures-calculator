@@ -3,7 +3,6 @@
 The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
 
 ![Significant Figures Calculator Input Form](/assets/images/screenshot-1.png "Significant Figures Calculator Input Form")
-![Significant Figures Calculator Calculation Results](/assets/images/screenshot-2.png "Significant Figures Calculator Calculation Results")
 
 ## Installation
 

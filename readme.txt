@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Significant Fig
 == Screenshots ==
 
 1. The Significant Figures Calculator Input Form.
-2. The Significant Figures Calculator Calculation Results.
 
 == Installation ==
 
