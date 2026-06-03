@@ -1,6 +1,6 @@
 # Significant Figures Calculator Widget for WordPress
 
-The significant figure rounder rounds numbers to the required quantity of significant figures. It works with a standard number format, e-notation, and scientific notation.
+Quickly round numbers to any number of significant figures. Our free Sig Fig Calculator supports standard, scientific, and e-notation formats. Try it now!
 
 ![Significant Figures Calculator Input Form](/assets/images/screenshot-1.png "Significant Figures Calculator Input Form")
 
@@ -11,8 +11,8 @@ The significant figure rounder rounds numbers to the required quantity of signif
 3. Activate the [Significant Figures Calculator](https://www.calculator.io/significant-figures-calculator/ "Significant Figures Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_significant_figures_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_significant_figures_calculator(); ?>` to your template where you would like the Significant Figures Calculator to appear.
+* Add the shortcode `[calcio_significant_figures_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_significant_figures_calculator(); ?>` to your template where you would like the Significant Figures Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
